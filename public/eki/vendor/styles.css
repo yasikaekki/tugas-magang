@@ -1,0 +1,146 @@
+body{
+    font-family: 'Poppins';
+    font-size: 17px;
+}
+
+.mb-6 {
+    margin-bottom: 45px;
+}
+
+.mb-7 {
+    margin-bottom: 97px;
+}
+
+.mb0 {
+    padding-left: 0px;
+    margin-top: -1px;
+    padding-right: 200px;
+    padding-top: 30px;
+}
+
+.btn-light:hover {
+    color: rgb(248, 249, 250);
+    background: none;
+}
+
+.ft15 {
+    font-size: 15px;
+}
+
+.text18 {
+    font-size: 18px;
+}
+
+.list-style-none {
+    list-style: none;
+}
+
+.pull-right {
+    float: right;
+}
+
+.btn-success:hover{
+    color: rgba(25, 135, 84);
+    background: none;
+}
+
+.btn-primary:hover{
+    color: rgba(13, 110, 253);
+    background: none;
+}
+
+.btn-color:hover{
+    color: white;
+}
+
+.btn-danger:hover{
+    color: rgb(220, 53, 69);
+    background: none;
+}
+
+.profile-user {
+    border: 3px solid #adb5bd;
+    margin: 0 auto;
+    padding: 3px;
+    height: 150px;
+    width: 150px;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.profile-company {
+    border: 3px solid #adb5bd;
+    margin: 0 auto;
+    padding: 3px;
+    width: 250px;
+}
+
+.logo-profile-user {
+    border: 3px solid #adb5bd;
+    margin: 0 auto;
+    padding: 3px;
+    height: 350px;
+    width: 350px;
+}
+
+.logo-profile-company {
+    border: 3px solid #adb5bd;
+    margin: 0 auto;
+    padding: 3px;
+    width: 350px;
+}
+
+.text-white {
+    color: white;
+}
+
+.mw-100 {
+    max-width: 100%;
+    max-height: 250px;
+}
+
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.prev{
+    padding-right: 10%;
+}
+
+.next{
+    padding-left: 10%;
+}
+
+.carousel-control-prev {
+    padding-right: 167px;
+    top: 65px;
+}
+
+.carousel-control-next {
+    padding-left: 167px;
+    top: 65px;
+}
+
+.title::before{
+    content: "";
+    position: absolute;
+    bottom: 130px;
+    left: 37%;
+    width: 265px;
+    height: 2px;
+    background: #111;
+}
+.title2::before{
+    content: "";
+    position: absolute;
+    top: 49.50rem;
+    left: 40%;
+    width: 265px;
+    height: 2px;
+    background: #111;
+}
